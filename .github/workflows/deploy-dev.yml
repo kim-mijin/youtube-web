@@ -16,7 +16,7 @@ jobs:
       - name: 의존성 설치
         run: npm install
 
-      - name: 의존성 설치
+      - name: 빌드
         run: npm run build
 
 
